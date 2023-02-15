@@ -1,8 +1,8 @@
-<h1 align="center">Stite Universidade Unes</h1>
+<h1 align="center">Site Universidade Unes</h1>
 
 <hr>
 <p align="center">
- <img width="900px" src="https://user-images.githubusercontent.com/103331086/219087953-ff229a5b-5470-486e-b6cc-95166f865ff9.png" />
+ <img width="900px" src="https://user-images.githubusercontent.com/103331086/219099468-68d49360-a7bd-4719-9b0f-6b2419088e15.PNG" />
 </p>
 
 📚 Sobre
